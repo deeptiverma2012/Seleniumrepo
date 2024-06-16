@@ -38,7 +38,7 @@ public class FBAccount {
 		System.setProperty("webdriver.chrome.driver", "D:\\chromedriver_win32\\chromedriver.exe");
 		FBAccount fb = new FBAccount();
 	    fb.login();     
-	    System.out.println("Testing");
+	   
       
 	}
 
